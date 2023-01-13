@@ -6,7 +6,7 @@ Ported the current version of [Creative Theme](https://startbootstrap.com/theme/
 
 [![Creative Preview](https://assets.startbootstrap.com/img/screenshots/themes/creative.png)](https://startbootstrap.github.io/startbootstrap-creative/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-creative/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-creative/)** of the original Creative template.
 
 ## QuickStart
 
