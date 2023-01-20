@@ -1,0 +1,7 @@
+article.post-preview {
+    padding-top: 5rem
+}
+
+.post-preview > a {
+    text-decoration: none
+}
