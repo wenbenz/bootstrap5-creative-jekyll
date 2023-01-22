@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Why I love the Raspberry Pi"
-subtitle: "Hint: you're seeing it!"
 date: 2020-01-26 23:45:13 -0500
 background: '/assets/img/posts/raspberrypi.jpg'
+includeMeta: yes
 ---
 When I bought this little device back in 2020, I never expected to use it as much as I do today. I simply wanted to spin up a real network to learn about network exploits. After some time, it fulfilled its purpose and sat in a drawer for more than a couple years... until a certain megacorporation changed their cloud storage policy making it such that if you have too many photos and videos, your email stops working. This spurred a series of projects which are as useful now as they were educational to build.
 
@@ -39,4 +39,4 @@ On it's own, a NAS is pretty cool, but it also happens to synergize well with Ph
 
 ## I love pi!
 
-I really didn't expect to go down this rabbit hole of pi projects, but it really has been a great learning experience and produced some useful results. There's likely more pi projects to come. Thank you megacorporation who shall not be named for sending me down this road, and thank you for reading.
+I really didn't expect to go down this rabbit hole of pi projects, but it really has been a great learning experience and produced some useful results. There's likely more pi projects to come.

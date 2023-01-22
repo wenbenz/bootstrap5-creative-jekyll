@@ -14,9 +14,9 @@ description: From travel and hobbies to pi projects and everything in between
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" class="text-dark">
           <h2 class="post-title">{{ post.title }}</h2>
           {% if post.subtitle %}
-          <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+          <h4>{{ post.subtitle }}</h4>
           {% else %}
-          <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>
+          <p>{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
           {% endif %}
         </a>
         <p class="text-secondary">Posted by
