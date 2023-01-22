@@ -1,0 +1,35 @@
+{% if page.background %}
+<header class="masthead masthead-partial" style="
+padding-top: 10rem;
+padding-bottom: calc(10rem - 4.5rem);
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%), url('{{ page.background }}');
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: cover;">
+{% else %}
+<header class="masthead masthead-partial">
+{% endif %}
+  <div class="container px-4 px-lg-5 h-100">
+      <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+          <div class="col-lg-8 align-self-end">
+              <h1 class="font-weight-bold text-white">{{ page.title }}</h1>
+              <hr class="divider" />
+          </div>
+          <div class="col-lg-8 align-self-baseline">
+
+            {% if page.description %}
+            <p class="text-white-75 mb-5">{{ page.description }}</p>
+            {% endif %}
+
+            {% if page.includeMeta %}
+            <span class="meta">Posted by
+                <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
+                on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
+                content=page.content %}
+            </span>
+            {% endif %}
+          </div>
+      </div>
+  </div>
+</header>

@@ -1,0 +1,15 @@
+article.post-preview {
+    padding-top: 5rem
+}
+
+.post-preview > a {
+    text-decoration: none
+}
+
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a {
+    text-decoration: none;
+    color: inherit;
+}
