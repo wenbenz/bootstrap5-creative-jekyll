@@ -13,3 +13,12 @@ h4 > a {
     text-decoration: none;
     color: inherit;
 }
+
+blockquote {
+    color: grey;
+    background-color: whitesmoke;
+    padding: 1rem;
+    border-color:darkgray;
+    border-style: none;
+    border-left-style: solid;
+}

@@ -1,12 +1,10 @@
-title: Ben Zhao Personal Website
+title: Ben Zhao
 author: Ben Zhao
 email: ben@wenbinzhao.com
 description: >-
-  Ben Zhao Personal Website
-  This is Ben's personal website.
-  Ben is a software developer building enterprise security software at Okta.
-  He is proficient in many programming languages and technologies including
-  Java, Python, C++, Spring, Scala, Go/GoLang, and Amazon Web Services (AWS).
+  I build enterprise cloud security software at Okta.
+  My team develops the Okta directory which manages millions of users, groups, and their schemas.
+  I am proficient in many programming languages and technologies including Java, Python, C++, Spring, Scala, Go/GoLang, and Amazon Web Services (AWS).
 baseurl: "/"
 url: "https://wenbinzhao.com"
 linkedin_username: wenbinzhao
