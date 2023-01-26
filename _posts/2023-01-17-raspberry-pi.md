@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why I love the Raspberry Pi"
+description: I bought a Raspberry Pi and it opened the door to a lot of learning and various projects.
 date: 2023-01-17 12:00:00 -0500
 background: '/assets/img/posts/raspberrypi.jpg'
 includeMeta: yes

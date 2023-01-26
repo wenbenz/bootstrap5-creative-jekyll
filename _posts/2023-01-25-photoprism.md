@@ -2,6 +2,7 @@
 layout: post
 title: Photoprism
 subtitle: Self-Hosted Google Photos alternative
+description: Step by step instructions for migration from Google Photos to a self-hosted instance of Photoprism using a Raspberry Pi.
 date: 2023-01-25 12:00:00 -0500
 background: '/assets/img/posts/photoprism.jpg'
 includeMeta: yes
