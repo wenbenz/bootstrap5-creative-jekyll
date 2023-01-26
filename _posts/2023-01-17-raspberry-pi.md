@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I love the Raspberry Pi"
-date: 2020-01-26 23:45:13 -0500
+date: 2023-01-17 12:00:00 -0500
 background: '/assets/img/posts/raspberrypi.jpg'
 includeMeta: yes
 ---

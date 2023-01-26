@@ -22,3 +22,7 @@ blockquote {
     border-style: none;
     border-left-style: solid;
 }
+
+code {
+    background-color: lightgray;
+}
