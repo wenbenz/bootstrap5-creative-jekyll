@@ -15,6 +15,8 @@ Obviously, I could have paid for more storage, but each image with a modern smar
 > At the time of writing, the maximum Google One plan is $13.99/mo = **$167.88/yr** for 2TB of storage.
 > An external hard disk of the same capacity costs **$84.99 once**.
 
+**Pro Tip:** You can download any and all of your Google data using [Google Takeout](https://takeout.google.com/). I downloaded all my photos this way and imported them into the server.
+
 # Ingredients
 Here's what you will need to set it up at home:
 - A 64-bit computer that can run 24/7 with networking capabilities; I used my Raspberry Pi 4 running Raspberry Pi OS Lite because it consumes much less power than a PC.
