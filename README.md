@@ -1,3 +1,3 @@
-# WenbinZhao.com
+# benzhao.dev
 
-This branch contains my [personal website](https://wenbinzhao.com/)
+This branch contains my [personal website](https://benzhao.dev/) because GitHub does not allow me to fork my own repo.
