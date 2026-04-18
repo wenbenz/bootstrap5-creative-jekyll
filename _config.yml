@@ -2,9 +2,9 @@ title: Ben Zhao
 author: Ben Zhao
 email: ben.zhao@benzhao.dev
 description: >-
-  I build enterprise cloud security software at Okta.
-  My team builds and owns Okta’s directory which handles operations against billions of users and groups.
-  I am proficient in many programming languages and technologies including Java, Python, C++, Spring, Scala, Go/GoLang, and Amazon Web Services (AWS).
+  Senior Software Engineer specializing in Non-Human Identity (NHI) security.
+  Joining Defakto Security to discover and govern upstream service accounts, machine credentials, and agentic identities.
+  Previously at Coinbase (employee identity platform) and Okta (directory at scale).
 baseurl: "/"
 url: "https://benzhao.dev"
 linkedin_username: benzhaodev
